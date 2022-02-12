@@ -1,5 +1,5 @@
 # DataVisualization
-Based on IBM 'Data Visualisation with Python' course
+Based on IBM 'Data Visualization with Python' course
 
 Cheat sheet for DataFrame and Series Plot:
   - Line Plot
