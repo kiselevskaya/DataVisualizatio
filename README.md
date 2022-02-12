@@ -1,4 +1,4 @@
-# DataVisualizatio
+# DataVisualization
 Based on IBM 'Data Visualisation with Python' course
 
 Cheat sheet for DataFrame and Series Plot:
